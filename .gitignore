@@ -1,0 +1,8 @@
+*log*
+files/*
+data/*
+__pycache__
+pay_imgs/*
+static/web_files/*
+files*.png
+files*.jpeg
